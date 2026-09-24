@@ -1,0 +1,131 @@
+{
+    "settings": {
+        "folder_to_organize": "~/Downloads",
+        "organize_existing_files_on_start": true,
+        "watch_for_new_files": true,
+        "watch_recursive": false,
+        "wait_for_file_ready": true,
+        "file_ready_checks": 2,
+        "file_ready_delay_seconds": 0.5,
+        "max_file_ready_attempts": 20,
+        "skip_existing_files": true
+    },
+    "categories": {
+        "Documents": [
+            ".doc",
+            ".docx",
+            ".odt",
+            ".pages",
+            ".pdf",
+            ".rtf",
+            ".txt"
+        ],
+        "Spreadsheets": [
+            ".csv",
+            ".ods",
+            ".tsv",
+            ".xls",
+            ".xlsx"
+        ],
+        "Presentations": [
+            ".key",
+            ".odp",
+            ".ppt",
+            ".pptx"
+        ],
+        "EBooks": [
+            ".azw3",
+            ".djvu",
+            ".epub",
+            ".mobi"
+        ],
+        "Images": [
+            ".bmp",
+            ".gif",
+            ".heic",
+            ".ico",
+            ".jpeg",
+            ".jpg",
+            ".png",
+            ".tiff",
+            ".webp"
+        ],
+        "Vectors": [
+            ".ai",
+            ".eps",
+            ".fig",
+            ".psd",
+            ".svg",
+            ".xd"
+        ],
+        "Audio": [
+            ".aac",
+            ".flac",
+            ".m4a",
+            ".mid",
+            ".mp3",
+            ".ogg",
+            ".wav",
+            ".wma"
+        ],
+        "Videos": [
+            ".avi",
+            ".flv",
+            ".m4v",
+            ".mkv",
+            ".mov",
+            ".mp4",
+            ".webm",
+            ".wmv"
+        ],
+        "Archives": [
+            ".7z",
+            ".bz2",
+            ".gz",
+            ".iso",
+            ".rar",
+            ".tar",
+            ".zip"
+        ],
+        "Installers": [
+            ".apk",
+            ".deb",
+            ".dmg",
+            ".exe",
+            ".msi",
+            ".pkg",
+            ".rpm"
+        ],
+        "Code": [
+            ".c",
+            ".cpp",
+            ".cs",
+            ".css",
+            ".go",
+            ".html",
+            ".java",
+            ".js",
+            ".php",
+            ".py",
+            ".rs",
+            ".ts"
+        ],
+        "Data_Config": [
+            ".db",
+            ".ini",
+            ".json",
+            ".sql",
+            ".toml",
+            ".xml",
+            ".yaml",
+            ".yml"
+        ],
+        "Fonts": [
+            ".eot",
+            ".otf",
+            ".ttf",
+            ".woff",
+            ".woff2"
+        ]
+    }
+}
